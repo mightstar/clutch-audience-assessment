@@ -1,0 +1,26 @@
+{
+  "users": [
+    {
+      "name": "John Doe",
+      "email": "johndoe@example.com",
+      "password": "Password123!",
+      "passwordConfirm": "Password123!",
+      "referralCode": null,
+      "referredBy": null,
+      "role": "user",
+      "id": null,
+      "token": null
+    },
+    {
+      "name": "User two",
+      "email": "user1@app.com",
+      "password": "password12355!",
+      "passwordConfirm": "password12355!",
+      "referralCode": null,
+      "referredBy": null,
+      "role": "user",
+      "id": null,
+      "token": null
+    }
+  ]
+}
